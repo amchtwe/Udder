@@ -46,4 +46,7 @@
             <point key="canvasLocation" x="133.59999999999999" y="129.98500749625188"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="milk" width="700" height="466"/>
+    </resources>
 </document>
